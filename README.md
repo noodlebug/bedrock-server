@@ -1,4 +1,8 @@
 # minecraft-bedrock
+Forked from nguyer/bedrock-server
+
+Added automatic grabbing of latest version stolen from japtain-cack/bedrock-server (also forked from nguyers)
+
 Run a bedrock server in a Docker container
 
 This Dockerfile will download the Bedrock Server app and set it up, along with its dependencies.
