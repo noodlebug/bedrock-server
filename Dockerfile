@@ -9,4 +9,5 @@ RUN rm bedrock-server.zip
 
 WORKDIR /bedrock-server
 ENV LD_LIBRARY_PATH=.
+CMD chmod +x ./bedrock_server
 CMD ./bedrock_server
